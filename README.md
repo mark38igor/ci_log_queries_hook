@@ -10,9 +10,9 @@ Change the $config['base_url'] in config.php file to the location where this pro
 Open your browser,type the path where the project resides in a web server and append these path to tests.
 - index.php/Test/getOfficeList to execute a select query and log it .
 - Test/createOffice to execute a insert query and log it. 
--Test/createOffices to execute a batch insert query and log it .
+- Test/createOffices to execute a batch insert query and log it .
 
-SqlQuery log files are created in the log Files.
+SqlQuery log files are created in the log Folder.
 
 ## Pre_system hook definition
 application/config/hooks.php
